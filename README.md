@@ -1,5 +1,5 @@
 # Usando-Flexbox-Posiciones
-*Practicando los usos básicos de Flexbox y posiciones
+* Practicando los usos básicos de Flexbox y posiciones
 ```javascript
 .header-sitio {
     
